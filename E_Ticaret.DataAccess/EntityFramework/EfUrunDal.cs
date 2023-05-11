@@ -11,6 +11,6 @@ namespace ETicaret.DataAccess.EntityFramework
 {
     public class EfUrunDal : GenericRepository<Urun>,  IUrunDal 
     {
-        //Efeee
+        
     }
 }
